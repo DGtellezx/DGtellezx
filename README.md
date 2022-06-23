@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @DGtellezx
-- 👀 I’m interested in  
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# sobre mim 
+-  👋 ola meu nome é @DGtellezx
+- 👀 eu estou interessado em aprender a ŕogramar novas linguagens.
+- 🌱 eu estou apredendo a programar recentemente a linguagem javascript e scratch
